@@ -1,5 +1,7 @@
 # UML
-![UML](UMLSecureMessaginApp.jpg "UML")
+<p align="center">
+  <img src="UMLSecureMessaginApp.jpg" alt="UML" title="UML">
+</p>
 
 # GuasappMessenger
 
